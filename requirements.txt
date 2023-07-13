@@ -1,0 +1,10 @@
+# requirements.txt
+#langchain==0.0.154
+langchain==0.0.206 # latest version from 6/20/23
+pypdf==3.1.0
+python-dotenv==1.0.0
+streamlit==1.22.0
+faiss-cpu==1.7.4
+streamlit-extras
+openai==0.27.7
+tiktoken==0.4.0
